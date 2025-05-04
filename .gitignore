@@ -2,7 +2,7 @@
 /ckpt/msldm.ckpt
 /ckpt/sourcevae_ckpt
 /ckpt/msldm_large.ckpt
-
+__pycache__/
 
 # Ignore the ckpt directory inside SourceVAE
 /SourceVAE/ckpt/
